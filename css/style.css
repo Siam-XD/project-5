@@ -1,0 +1,19 @@
+* {
+    font-family: "Epilogue";
+    color: #2D2D2D;
+}
+/* hero section */
+#hero {
+    padding: 100px 0;
+}
+.hero-text > h1 {
+    font-size: 80px;
+}
+/* client section */
+.review {
+    background-color: #FFFCF5;
+    border: 1.5px solid #FFD285;
+}
+.review > p {
+    margin-bottom: 80px;
+}
