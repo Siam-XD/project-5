@@ -17,3 +17,37 @@
 .review > p {
     margin-bottom: 80px;
 }
+/* product section */
+#product {
+    padding: 180px 0;
+}
+/* footer */
+footer {
+    padding: 70px 0;
+}
+.user {
+    width: 100%;
+    background-color: #F3F3F3;
+    border: none;
+}
+#comment {
+    height: 231px;
+}
+.submit {
+    width: 45%;
+    height: 80px;
+    background-color: #2D2D2D;
+    color: white;
+}
+
+@media (max-width: 575px) {
+    #hero {
+        padding: 50px 0;
+    }
+    .hero-text > h1 {
+        font-size: 50px;
+    }
+    #hero img {
+        width: 100%;
+    }
+}
